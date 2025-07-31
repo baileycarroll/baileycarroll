@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./EnchantedRoseLogo.svg" width="250" />
-</p>
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
