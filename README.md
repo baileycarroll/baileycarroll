@@ -33,12 +33,11 @@ Seattle, WA · University of Washington
 
 | Project | What it is | Status | Links |
 |---|---|---|---|
-| **SyraCore** | Bare-metal OS (UEFI boot, memory, drivers, subsystems) | Research & prototyping | [Repo](#) · [Design notes](#) |
-| **UEFI Bootloader** | From-spec boot flow, no external libs | Early | [Repo](#) |
-| **LMS v4 → v5** | Prod LMS rewrite; auth, migrations, docs | Shipping (v4), v5 in progress | [Overview](#) |
-| **Dotfiles** | Cross-platform shell/dev env (Arch + macOS) | Active | [Repo](#) |
-
-*(Replace `#` with links. If a project is private on Gitea, link to a public overview/readme.)*
+| **SyraCore** | Bare-metal OS (UEFI boot, memory, drivers, subsystems) | Research & prototyping | _Repo & Design Notes Coming Soon_ |
+| **UEFI Bootloader** | From-spec boot flow, no external libs | Early | _Repo Coming Soon_ |
+| **LMS v4 → v5** | Prod LMS rewrite; auth, migrations, docs | Shipping (v4), v5 in progress | [Acolyte v4 Repo](https://github.com/baileycarroll/Acolyte-v4) |
+| **Dotfiles** | Cross-platform shell/dev env (Arch + macOS) | Active | [Repo](https://github.com/baileycarroll/dotfiles) |
+| **Docker Templates** | Template docker environments for a variety of application stacks. | Paused | [Repo](https://github.com/baileycarroll/Docker-Templates) |
 
 ---
 
