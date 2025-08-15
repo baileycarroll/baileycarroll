@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baileycarroll/">LinkedIn</a> •
-  • <a href="https://baileycarroll.dev">Website</a>
+  <a href="https://baileycarroll.dev">Website</a>
 </p>
 
 ---
